@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "title": "My stream",
+      "description": "this stream aint great",
+      "id": 1
+    },
+    {
+      "title": "Another stream",
+      "description": "this stream exists",
+      "id": 2
+    },
+    {
+      "title": "Another Account",
+      "description": "This stream was created by another account",
+      "userId": "100325165259767481249",
+      "id": 5
+    },
+    {
+      "title": "test stream",
+      "description": "this stream is for testing",
+      "userId": "104614782080726857079",
+      "id": 9
+    },
+    {
+      "title": "new stream",
+      "description": "I MADE A NEW STREAM",
+      "userId": "104614782080726857079",
+      "id": 10
+    }
+  ]
+}
